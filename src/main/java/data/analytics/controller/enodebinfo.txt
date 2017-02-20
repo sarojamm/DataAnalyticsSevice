@@ -1,0 +1,28 @@
+[
+   {
+      "enodebId":172544,
+      "market":{
+         "regionIid":6,
+         "marketName":"GA Atlanta NW - Alpharetta2",
+         "marketShortName":null,
+         "marketId":"172",
+         "tzname":"US/Eastern"
+      },
+      "region":{
+         "schemaIid":6,
+         "regionName":"Georgia/Alabama",
+         "regionShortname":"e_geo_ala",
+         "prodAppServer":"vaculptpa24.nss.vzwnet.com",
+         "drAppServer":"txslelptpg3.nss.vzwnet.com"
+      },
+      "mmePool":{
+         "mmePoolId":64168,
+         "mmePoolName":"Georgia/Alabama",
+         "mmeShortname":null
+      },
+      "siteName":"GRAVEL_SPRINGS",
+      "enodebName":"172544_GRAVEL_SPRINGS",
+      "carrierAggregationConfig":"Y",
+      "carrierAggregation":"Y"
+   }
+]
